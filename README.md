@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Virtual Switch (In Progress)  
 
 ## Overview  
